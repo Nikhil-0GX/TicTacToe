@@ -1,3 +1,3 @@
-Page Live at https://nikhil-ogx.github.io/TicTacToe/
+Page Live at https://nikhil-0gx.github.io/TicTacToe/
 
 #Works on Local Storage.
